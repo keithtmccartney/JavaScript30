@@ -52,6 +52,7 @@ function makeGreen() {
     // counting
     console.count('Keith');
     console.count('Dau');
+    console.count('Dau');
     console.count('Long');
     console.count('Mark');
     console.count('Keith');
