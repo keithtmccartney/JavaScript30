@@ -1,0 +1,15 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    background: #FFC600;
+    font-family: 'helvetica neue';
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.words {
+    max-width: 500px;
+    margin: 50px auto;
+}
